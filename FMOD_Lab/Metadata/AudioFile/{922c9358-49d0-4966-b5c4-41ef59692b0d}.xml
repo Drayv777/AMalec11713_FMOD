@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{922c9358-49d0-4966-b5c4-41ef59692b0d}">
+		<property name="assetPath">
+			<value>Sci-Fi/PM_FSSF2_WEAPONS_H2_SHOT.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.53217687074829934</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{27bf0601-c82d-431a-8b02-915fef498e73}</destination>
+		</relationship>
+	</object>
+</objects>

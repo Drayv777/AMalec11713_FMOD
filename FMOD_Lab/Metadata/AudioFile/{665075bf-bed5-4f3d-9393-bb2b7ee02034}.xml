@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{665075bf-bed5-4f3d-9393-bb2b7ee02034}">
+		<property name="assetPath">
+			<value>Footsteps/Boot Dirt Run/Boot Dirt Run A01.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.3113151927437641</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{27bf0601-c82d-431a-8b02-915fef498e73}</destination>
+		</relationship>
+	</object>
+</objects>

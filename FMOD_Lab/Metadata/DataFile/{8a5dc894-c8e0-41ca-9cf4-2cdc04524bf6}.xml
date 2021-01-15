@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DataFile" id="{8a5dc894-c8e0-41ca-9cf4-2cdc04524bf6}">
+		<property name="assetPath">
+			<value>Sci-Fi/DRONE Server Room Loop.ogg.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{27bf0601-c82d-431a-8b02-915fef498e73}</destination>
+		</relationship>
+	</object>
+</objects>

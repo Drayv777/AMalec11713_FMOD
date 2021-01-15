@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DataFile" id="{e93ad1c1-ab49-4442-a96b-bbdc573234f2}">
+		<property name="assetPath">
+			<value>Footsteps/BOOT_METAL1_15-05_RUN_416-L.ogg.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{27bf0601-c82d-431a-8b02-915fef498e73}</destination>
+		</relationship>
+	</object>
+</objects>

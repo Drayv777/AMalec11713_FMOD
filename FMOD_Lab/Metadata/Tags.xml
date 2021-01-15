@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="MasterTagFolder" id="{7f349fee-5be8-4e13-b925-1dd4824108e8}">
+		<property name="name">
+			<value>Master</value>
+		</property>
+		<relationship name="items">
+			<destination>{07a939fb-962b-4f94-8dc2-5229898bb5a9}</destination>
+			<destination>{2b2fa2e7-63bc-42ab-911e-f9668251f843}</destination>
+			<destination>{dd401363-fff6-4295-a9f5-54e3861561b7}</destination>
+		</relationship>
+	</object>
+	<object class="Tag" id="{07a939fb-962b-4f94-8dc2-5229898bb5a9}">
+		<property name="name">
+			<value>Reverb</value>
+		</property>
+	</object>
+	<object class="Tag" id="{2b2fa2e7-63bc-42ab-911e-f9668251f843}">
+		<property name="name">
+			<value>No</value>
+		</property>
+	</object>
+	<object class="Tag" id="{dd401363-fff6-4295-a9f5-54e3861561b7}">
+		<property name="name">
+			<value>NoReverb</value>
+		</property>
+	</object>
+</objects>

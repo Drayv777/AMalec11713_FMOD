@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{44e3d106-5ab7-4638-ac43-df34dca723d6}">
+		<property name="name">
+			<value>MetalSurface</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5ef79c5e-6f71-4f5b-86ea-9a17acaed6b6}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d12716d5-1ee9-4e1b-806e-ba4782ca28d6}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d12716d5-1ee9-4e1b-806e-ba4782ca28d6}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
